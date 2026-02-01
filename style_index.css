@@ -1,0 +1,17 @@
+body{
+    background-color: darkgrey;
+    text-align: center;
+}
+
+.field{
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    background-color: grey;
+    opacity: 1;
+    width: 20vw;
+    height: auto;
+    margin: 2.5vw;
+}
